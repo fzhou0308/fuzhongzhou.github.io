@@ -25,7 +25,7 @@ social: true # includes social icons at the bottom of the page
 #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
 ---
-My name is Fuzhong Zhou and I am currently a fifth year Ph.D. student at Columbia University department of Industrial Engineering and Operation Research (IEOR), under the advisory of [Prof. Daniel Lacker](https://www.columbia.edu/~dl3133/). My research lies in probability theory in continuous time stochastic analysis; more specifically, I am interested in interacting particle systems, sampling and differential game theory.
+My name is Fuzhong Zhou and I obtained my Ph.D. at Columbia University department of Industrial Engineering and Operation Research (IEOR), under the advisory of [Prof. Daniel Lacker](https://www.columbia.edu/~dl3133/). My research lies in probability theory in continuous time stochastic analysis; more specifically, I am interested in interacting particle systems, sampling and differential game theory.
 
 I completed my master's degree in computational finance at Carnegie Mellon University, and my bachalor's degree in applied mathematics at Central University of Finance and Economics in China. 
 
